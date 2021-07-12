@@ -1,0 +1,39 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class MessageNotifier extends Thread {
+
+        // write fields to store variables here
+
+        public MessageNotifier(String msg, int repeats) {
+            // implement the constructor
+        }
+
+        @Override
+        public void run() {
+            // implement the method to print the message stored in a field
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2527#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 4. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Hello, Mary
+    3
+    Correct output:
+    Hello, Mary
+    Hello, Mary
+    Hello, Mary
+
+    Your code output:
+
+  time: Sat, 05 Jun 2021 10:46:01 UTC
+record: -1

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments" target="11" />
+      <module name="A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" target="11" />
+      <module name="A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.test" target="11" />
+      <module name="Add new default method.SQLite_Viewer.Topics-Default_methods-Add_new_default_method" target="11" />
+      <module name="Add new default method.SQLite_Viewer.Topics-Default_methods-Add_new_default_method.main" target="11" />
+      <module name="Add new default method.SQLite_Viewer.Topics-Default_methods-Add_new_default_method.test" target="11" />
+      <module name="An anonymous class with three methods.SQLite_Viewer.Topics-Anonymous_classes-An_anonymous_class_with_three_methods" target="11" />
+      <module name="An anonymous class with three methods.SQLite_Viewer.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.main" target="11" />
+      <module name="An anonymous class with three methods.SQLite_Viewer.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" target="11" />
+      <module name="Apply function to all elements.SQLite_Viewer.Topics-Lambda_expressions-Apply_function_to_all_elements" target="11" />
+      <module name="Apply function to all elements.SQLite_Viewer.Topics-Lambda_expressions-Apply_function_to_all_elements.main" target="11" />
+      <module name="Apply function to all elements.SQLite_Viewer.Topics-Lambda_expressions-Apply_function_to_all_elements.test" target="11" />
+      <module name="Calculator.SQLite_Viewer.Topics-Anonymous_classes_properties-Calculator" target="11" />
+      <module name="Calculator.SQLite_Viewer.Topics-Anonymous_classes_properties-Calculator.main" target="11" />
+      <module name="Calculator.SQLite_Viewer.Topics-Anonymous_classes_properties-Calculator.test" target="11" />
+      <module name="Capture variables.SQLite_Viewer.Topics-Anonymous_classes-Capture_variables" target="11" />
+      <module name="Capture variables.SQLite_Viewer.Topics-Anonymous_classes-Capture_variables.main" target="11" />
+      <module name="Capture variables.SQLite_Viewer.Topics-Anonymous_classes-Capture_variables.test" target="11" />
+      <module name="Create instance.SQLite_Viewer.Topics-Anonymous_classes_properties-Create_instance" target="11" />
+      <module name="Create instance.SQLite_Viewer.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Create instance.SQLite_Viewer.Topics-Anonymous_classes_properties-Create_instance.test" target="11" />
+      <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure" target="11" />
+      <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure.main" target="11" />
+      <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure.test" target="11" />
+      <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info" target="11" />
+      <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info.test" target="11" />
+      <module name="Implement a default method.SQLite_Viewer.Topics-Default_methods-Implement_a_default_method" target="11" />
+      <module name="Implement a default method.SQLite_Viewer.Topics-Default_methods-Implement_a_default_method.main" target="11" />
+      <module name="Implement a default method.SQLite_Viewer.Topics-Default_methods-Implement_a_default_method.test" target="11" />
+      <module name="Implement Runnable.SQLite_Viewer.Topics-Anonymous_classes-Implement_Runnable" target="11" />
+      <module name="Implement Runnable.SQLite_Viewer.Topics-Anonymous_classes-Implement_Runnable.main" target="11" />
+      <module name="Implement Runnable.SQLite_Viewer.Topics-Anonymous_classes-Implement_Runnable.test" target="11" />
+      <module name="Is thread daemon.SQLite_Viewer.Topics-Threads_as_objects-Is_thread_daemon" target="11" />
+      <module name="Is thread daemon.SQLite_Viewer.Topics-Threads_as_objects-Is_thread_daemon.main" target="11" />
+      <module name="Is thread daemon.SQLite_Viewer.Topics-Threads_as_objects-Is_thread_daemon.test" target="11" />
+      <module name="Iterations.SQLite_Viewer.Topics-Anonymous_classes_properties-Iterations" target="11" />
+      <module name="Iterations.SQLite_Viewer.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Iterations.SQLite_Viewer.Topics-Anonymous_classes_properties-Iterations.test" target="11" />
+      <module name="Managing a process.SQLite_Viewer.Topics-Anonymous_classes_properties-Managing_a_process" target="11" />
+      <module name="Managing a process.SQLite_Viewer.Topics-Anonymous_classes_properties-Managing_a_process.main" target="11" />
+      <module name="Managing a process.SQLite_Viewer.Topics-Anonymous_classes_properties-Managing_a_process.test" target="11" />
+      <module name="Max of two integers.SQLite_Viewer.Topics-Lambda_expressions-Max_of_two_integers" target="11" />
+      <module name="Max of two integers.SQLite_Viewer.Topics-Lambda_expressions-Max_of_two_integers.main" target="11" />
+      <module name="Max of two integers.SQLite_Viewer.Topics-Lambda_expressions-Max_of_two_integers.test" target="11" />
+      <module name="Message notifier as a thread.SQLite_Viewer.Topics-Custom_threads-Message_notifier_as_a_thread" target="11" />
+      <module name="Message notifier as a thread.SQLite_Viewer.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="Message notifier as a thread.SQLite_Viewer.Topics-Custom_threads-Message_notifier_as_a_thread.test" target="11" />
+      <module name="Multiple threads.SQLite_Viewer.Topics-Custom_threads-Multiple_threads" target="11" />
+      <module name="Multiple threads.SQLite_Viewer.Topics-Custom_threads-Multiple_threads.main" target="11" />
+      <module name="Multiple threads.SQLite_Viewer.Topics-Custom_threads-Multiple_threads.test" target="11" />
+      <module name="Numbers filter.SQLite_Viewer.Topics-Custom_threads-Numbers_filter" target="11" />
+      <module name="Numbers filter.SQLite_Viewer.Topics-Custom_threads-Numbers_filter.main" target="11" />
+      <module name="Numbers filter.SQLite_Viewer.Topics-Custom_threads-Numbers_filter.test" target="11" />
+      <module name="Production of all numbers in the range.SQLite_Viewer.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range" target="11" />
+      <module name="Production of all numbers in the range.SQLite_Viewer.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.main" target="11" />
+      <module name="Production of all numbers in the range.SQLite_Viewer.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.test" target="11" />
+      <module name="Resolve a diamond problem.SQLite_Viewer.Topics-Default_methods-Resolve_a_diamond_problem" target="11" />
+      <module name="Resolve a diamond problem.SQLite_Viewer.Topics-Default_methods-Resolve_a_diamond_problem.main" target="11" />
+      <module name="Resolve a diamond problem.SQLite_Viewer.Topics-Default_methods-Resolve_a_diamond_problem.test" target="11" />
+      <module name="SQLite Viewer.SQLite_Viewer.util" target="11" />
+      <module name="SQLite Viewer.SQLite_Viewer.util.main" target="11" />
+      <module name="SQLite Viewer.SQLite_Viewer.util.main~1" target="11" />
+      <module name="SQLite Viewer.SQLite_Viewer.util.test" target="11" />
+      <module name="SQLite Viewer.SQLite_Viewer.util.test~1" target="11" />
+      <module name="Starting threads.SQLite_Viewer.Topics-Custom_threads-Starting_threads" target="11" />
+      <module name="Starting threads.SQLite_Viewer.Topics-Custom_threads-Starting_threads.main" target="11" />
+      <module name="Starting threads.SQLite_Viewer.Topics-Custom_threads-Starting_threads.test" target="11" />
+      <module name="task.SQLite_Viewer.SQLite_Viewer-task" target="11" />
+      <module name="task.SQLite_Viewer.SQLite_Viewer-task.main" target="11" />
+      <module name="task.SQLite_Viewer.SQLite_Viewer-task.test" target="11" />
+      <module name="Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate" target="11" />
+      <module name="Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate.main" target="11" />
+      <module name="Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate.test" target="11" />
+      <module name="The sequence.SQLite_Viewer.Topics-The_while_and_do-while_loops-The_sequence" target="11" />
+      <module name="The sequence.SQLite_Viewer.Topics-The_while_and_do-while_loops-The_sequence.main" target="11" />
+      <module name="The sequence.SQLite_Viewer.Topics-The_while_and_do-while_loops-The_sequence.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes_properties-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Anonymous_classes_properties-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Custom_threads-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Custom_threads-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Default_methods-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Default_methods-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Default_methods-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Lambda_expressions-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Lambda_expressions-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-The_while_and_do-while_loops-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-The_while_and_do-while_loops-Theory.test" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Threads_as_objects-Theory" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Theory.SQLite_Viewer.Topics-Threads_as_objects-Theory.test" target="11" />
+      <module name="Thread name.SQLite_Viewer.Topics-Threads_as_objects-Thread_name" target="11" />
+      <module name="Thread name.SQLite_Viewer.Topics-Threads_as_objects-Thread_name.main" target="11" />
+      <module name="Thread name.SQLite_Viewer.Topics-Threads_as_objects-Thread_name.test" target="11" />
+      <module name="Writing a thread for printing numbers.SQLite_Viewer.Topics-Custom_threads-Writing_a_thread_for_printing_numbers" target="11" />
+      <module name="Writing a thread for printing numbers.SQLite_Viewer.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" target="11" />
+      <module name="Writing a thread for printing numbers.SQLite_Viewer.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
