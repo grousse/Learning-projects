@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../util/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="SQLite Viewer.SQLite_Viewer.util.main~1" />
+    <orderEntry type="module" module-name="SQLite Viewer.SQLite_Viewer.util.main" />
     <orderEntry type="library" name="Gradle: org.xerial:sqlite-jdbc:3.34.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.9.2" level="project" />

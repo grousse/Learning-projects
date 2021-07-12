@@ -26,6 +26,15 @@
       <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure" target="11" />
       <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure.main" target="11" />
       <module name="Expression closure.SQLite_Viewer.Topics-Lambda_expressions-Expression_closure.test" target="11" />
+      <module name="Functional interfaces.A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments" target="11" />
+      <module name="Functional interfaces.A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.main" target="11" />
+      <module name="Functional interfaces.A lambda expression with seven arguments.SQLite_Viewer.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.test" target="11" />
+      <module name="Functional interfaces.Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate" target="11" />
+      <module name="Functional interfaces.Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate.main" target="11" />
+      <module name="Functional interfaces.Ternary predicate.SQLite_Viewer.Topics-Functional_interfaces-Ternary_predicate.test" target="11" />
+      <module name="Functional interfaces.Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory" target="11" />
+      <module name="Functional interfaces.Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory.main" target="11" />
+      <module name="Functional interfaces.Theory.SQLite_Viewer.Topics-Functional_interfaces-Theory.test" target="11" />
       <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info" target="11" />
       <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
       <module name="Getting current thread info.SQLite_Viewer.Topics-Threads_as_objects-Getting_current_thread_info.test" target="11" />
