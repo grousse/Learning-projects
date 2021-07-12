@@ -115,10 +115,14 @@ public class ViewerTest extends SwingTest {
                 "    Your query: " + queryTextArea.text());
         }
 
-        if (selectedTable.equals("contacts")) {
-            tablesComboBox.selectItem("groups");
-        } else {
-            tablesComboBox.selectItem("contacts");
+        try {
+            if (selectedTable.equals("contacts")) {
+                tablesComboBox.selectItem("groups");
+            } else {
+                tablesComboBox.selectItem("contacts");
+            }
+        } catch (Exception ignored) {
+            return wrong("Looks like your ComboBox is disabled!");
         }
 
         selectedTable = tablesComboBox.selectedItem();
@@ -200,7 +204,14 @@ public class ViewerTest extends SwingTest {
     @DynamicTest(order = 7)
     CheckResult checkTableContent() {
 
-        String[][] rows = table.contents();
+        String[][] rows = null;
+
+        try {
+            rows = table.contents();
+        } catch (Exception exception) {
+            return CheckResult.wrong("Can't select data from the table! Make sure it exists!");
+        }
+
         int firstNameColumnIndex;
         try {
             firstNameColumnIndex = table.columnIndexFor("first_name");

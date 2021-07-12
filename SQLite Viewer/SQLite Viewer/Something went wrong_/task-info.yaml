@@ -150,10 +150,14 @@ files:
                     "    Your query: " + queryTextArea.text());
             }
 
-            if (selectedTable.equals("contacts")) {
-                tablesComboBox.selectItem("groups");
-            } else {
-                tablesComboBox.selectItem("contacts");
+            try {
+                if (selectedTable.equals("contacts")) {
+                    tablesComboBox.selectItem("groups");
+                } else {
+                    tablesComboBox.selectItem("contacts");
+                }
+            } catch (Exception ignored) {
+                return wrong("Looks like your ComboBox is disabled!");
             }
 
             selectedTable = tablesComboBox.selectedItem();
@@ -235,7 +239,14 @@ files:
         @DynamicTest(order = 7)
         CheckResult checkTableContent() {
 
-            String[][] rows = table.contents();
+            String[][] rows = null;
+
+            try {
+                rows = table.contents();
+            } catch (Exception exception) {
+                return CheckResult.wrong("Can't select data from the table! Make sure it exists!");
+            }
+
             int firstNameColumnIndex;
             try {
                 firstNameColumnIndex = table.columnIndexFor("first_name");
@@ -455,5 +466,5 @@ status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
     Academy</a> to continue learning.
-  time: Mon, 12 Jul 2021 12:39:35 UTC
+  time: Mon, 12 Jul 2021 12:42:56 UTC
 record: -1
