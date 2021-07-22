@@ -1,0 +1,24 @@
+recipes/repository/UserRepository.java
+ recipes.repository.UserRepository
+recipes/repository/RecipeRepository.java
+ recipes.repository.RecipeRepository
+recipes/RecipesApplication.java
+ recipes.RecipesApplication
+recipes/security/MyUserDetails.java
+ recipes.security.MyUserDetails
+recipes/model/Recipe.java
+ recipes.model.Recipe
+recipes/registration/RegistrationController.java
+ recipes.registration.RegistrationController
+recipes/security/SecurityConfiguration.java
+ recipes.security.SecurityConfiguration
+recipes/service/RecipeService.java
+ recipes.service.RecipeService
+recipes/security/MyUserDetailService.java
+ recipes.security.MyUserDetailService
+recipes/RecipeCotroller.java
+ recipes.RecipeCotroller
+recipes/service/UserService.java
+ recipes.service.UserService
+recipes/model/User.java
+ recipes.model.User
